@@ -8,6 +8,8 @@ public class Home {
 		System.out.println("Hello World");
 		
 		System.out.println("My name is Rahul");
+		
+		AgeOutput.sayMyAge(26);
 	}
 
 }
